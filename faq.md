@@ -75,6 +75,8 @@ Here's a poster for the course:
 
 ![Poster](230.jpg)
 
+The image is from the poster for Extremely Ok's *Celeste*. 
+
 ## Who Are You? 
 
-My name is Jentery Sayers. I'm an Associate Professor in the English department, where I also direct the [Praxis Studio](https://uvicpraxis.github.io/) for Comparative Media Studies. I've been at UVic since 2011, and I did my PhD at the University of Washington in Seattle. I teach and write about media, fiction, and culture in the 20th and 21st centuries. 
+My name is Jentery Sayers. I'm an Associate Professor in the English department, where I also direct the [Praxis Studio](https://uvicpraxis.github.io/) for Comparative Media Studies. I've been at UVic since 2011, and I did my PhD at the University of Washington in Seattle. I teach and write about media, fiction, and culture in the 20th and 21st centuries. You can email me at [mailto:jentery@uvic.ca](jentery@uvic.ca). 
