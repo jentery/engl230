@@ -44,9 +44,9 @@ Please also note that Tuesday, October 13th is the last day for 50% reduction of
 
 ## Week 5 (October 13th): Audio, Part I
 
-* *Zoom Class*: "Listen Up" + Discussion Forum (Chapter 4)
-* *Study*: Chapter 4, "Audio and Fiction"
-* *Assignment*: Select a B Prompt (1B, 2B, or 3B) in the Textbook 
+* Zoom Class: "Listen Up" + Discussion Forum (Chapter 4)
+* Study: Chapter 4, "Audio and Fiction"
+* Assignment: Select a B Prompt (1B, 2B, or 3B) in the Textbook 
 
 We'll return marks this week. 
 
@@ -54,15 +54,15 @@ October 12th is Thanksgiving Monday.
 
 ## Week 6 (October 20th): Audio, Part II
 
-* *Zoom Class*: "Keep Listening" + Discussion Forum (Chapter 4)
-* *Study*: Janina Matthewson and Jeffrey Cranor's [*Within the Wires*](http://www.nightvalepresents.com/withinthewires) (Episode 1) + Fullbright's [*Gone Home*](https://gonehome.game/)  
-* *Assignment*: Prompt 4A 
+* Zoom Class: "Keep Listening" + Discussion Forum (Chapter 4)
+* Study: Janina Matthewson and Jeffrey Cranor's [*Within the Wires*](http://www.nightvalepresents.com/withinthewires) (Episode 1) + Fullbright's [*Gone Home*](https://gonehome.game/)  
+* Assignment: Prompt 4A 
 
 ## Week 7 (October 27th): Images, Pt. I 
 
-* *Zoom Class*: "Looking Out" + Discussion Forum (Chapter 5)
-* *Study*: Chapter 5, "Images and Fiction"
-* *Assignment*: None
+* Zoom Class: "Looking Out" + Discussion Forum (Chapter 5)
+* Study: Chapter 5, "Images and Fiction"
+* Assignment: None
 
 Please note that Saturday, October 31st is the last day for withdrawing from first term courses without penalty of failure.
 
