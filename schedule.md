@@ -24,6 +24,8 @@ Please purchase Alison Bechdel's *Fun Home* (available at the UVic Bookstore)
 * Study: Chapter 1, "Why Media and Fiction," including *M00D 0F THE M0MENT* by Young-Hae Chang Heavy Industries + *Secrets Agent* by Marina Kittaka 
 * Assignment: Prompt 1A 
 
+Please note that Friday, September 25th is the last day for adding courses that begin in the first term.
+
 ## Week 3 (September 29th): How? 
 
 * Zoom Class: "The Messenger" + Discussion Forum (Chapter 2)
@@ -74,7 +76,7 @@ Please publish your blogs by 9am on Friday, November 6th. We'll start marking th
 
 ## Week 9 (November 10th): Text, Pt. I
 
-No Zoom class or assignments. It's Reading Break, and Wednesday, November 11th is Remembrance Day.
+No Zoom class or assignments. It's Reading Break from November 9th through November 11th, and Wednesday, November 11th is Remembrance Day.
 
 ## Week 10 (November 17th): Text, Pt. I 
 
@@ -98,7 +100,7 @@ We'll return marks this week.
 
 Today's our last Zoom meeting, but office hours will run through December 9th.  
 
-Please note that Friday, December 4th is the last day of classes.  
+Please note that Friday, December 4th is the last day of classes and also National Day of Remembrance and Action on Violence Against Women.
 
 ## Final (by December 15th): Next Steps 
 
