@@ -98,6 +98,8 @@ We'll return marks this week.
 
 Today's our last Zoom meeting, but office hours will run through December 9th.  
 
+Please note that Friday, December 4th is the last day of classes.  
+
 ## Final (by December 15th): Next Steps 
 
 * Zoom Class: None 
