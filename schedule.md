@@ -7,11 +7,11 @@ Zoom Class: Tuesdays, 10:30 - 11:20am (optional)
 Zoom Office Hours: Tuesdays, 11:30am - 12:30pm; Wednesdays, 1:30-2:30pm     
 Taught by Jentery Sayers    
 
-## WEEK 1 (September 15th): Hello! 
+## Week 1 (September 15th): Hello! 
 
-* *Zoom Class*: "How's This Going to Work?" + Discussion Forum (Introductions)
-* *Study*: The Course Brightspace 
-* *Assignment*: Technology Survey  
+* Zoom Class: "How's This Going to Work?" + Discussion Forum (Introductions)
+* Study: The Course Brightspace 
+* Assignment: Brightspace Technology Survey  
 
 ## WEEK 2 (September 22nd): Why?  
 
