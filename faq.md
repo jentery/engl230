@@ -13,6 +13,7 @@ Here's a list of works we'll study in the course:
 * The role-playing game, [*Undertale*](https://undertale.com/) (2015), by Toby Fox and Temmie Chang
 * The platforming game, [*Celeste*](http://www.celestegame.com/) (2018), by Extremely Ok
 * The first-person game, [*Gone Home*](https://gonehome.game/) (2013), by the Fulbright Company 
+* The adventure puzzle game, [*Secrets Agent*](https://even-kei.itch.io/secrets-agent), by Marina Kittaka 
 * The dramatic podcast, [*Within the Wires*](http://www.nightvalepresents.com/withinthewires) (2016), by Jeffrey Cranor, Janina Matthewson, and Mary Epworth 
 
 I'm asking you to purchase only *one* of these works: Bechdel's *Fun Home*. I'm also providing you with a free textbook on contemporary media and fiction.
