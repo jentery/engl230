@@ -33,9 +33,8 @@ All four of these outcomes should apply to work across disciplines and occupatio
 
 I'm asking you to: 
 
-* Create, design, and maintain a simple research blog with 10-12 entries, each responding to a prompt in the course textbook (the blog will be marked three times; each mark will be 25% of your final grade) 
-* Complete a series of online workshops with your peers (15% of your mark)
-* Participate in online discussion forums with your peers (10% of your mark)
+* Create, design, and maintain a simple research blog with 10 entries, each responding to a prompt in the course textbook (the blog will be marked three times; the first two marks will each be 25% of your final grade; the final mark will be 30% of your final grade) 
+* Participate in online discussion forums with your peers (two marks, each 10% of your final grade)
 
 There are no essays or presentations required for this course. There is no exam, either. 
 
