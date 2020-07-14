@@ -7,7 +7,7 @@ We'll examine the role of media in contemporary fiction. This means we'll talk a
 Here's a list of works we'll study in the course:
 
 * The graphic novel and memoir, [*Fun Home*](http://www.houghtonmifflinbooks.com/booksellers/press_release/bechdel/) (2006), by Alison Bechdel 
-* The speculative fiction, ["Message in a Bottle"](https://tachyonpublications.com/product/falling-love-hominids/) (2004), by Nalo Hopkinson 
+* The speculative fictions, ["Message in a Bottle"](https://tachyonpublications.com/product/falling-love-hominids/) (2004), by Nalo Hopkinson, and [*The Fifth Season*](https://www.orbitbooks.net/orbit-excerpts/the-fifth-season/) (2015; excerpts), by N.K. Jemisin  
 * Experimental fiction such as [*With Those We Love Alive*](http://collection.eliterature.org/3/work.html?work=with-those-we-love-alive) (2014), by Porpentine and Brenda Neotenomie, and [*THE M00D OF THE MOMENT*](https://www.yhchang.com/THE_MOOD_OF_THE_MOMENT_V.html) (2007), by Young-Hae Chang Heavy Industries
 * The animated short film, [*Biidaaban (The Dawn Comes)*](https://www.youtube.com/watch?v=vWjnYKyiUB8) (2018), by Amanda Strong and Leanne Betasamosake Simpson 
 * The role-playing game, [*Undertale*](https://undertale.com/) (2015), by Toby Fox and Temmie Chang
