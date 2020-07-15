@@ -74,7 +74,7 @@ Please note that Saturday, October 31st is the last day for withdrawing from fir
 
 Please publish your blogs by 9am on Friday, November 6th. We'll start marking them then. Thank you! 
 
-## Week 9 (November 10th): Text, Pt. I
+## Week 9 (November 10th): Reading Break 
 
 No Zoom class or assignments. It's reading break from November 9th through November 11th, and Wednesday, November 11th is Remembrance Day.
 
