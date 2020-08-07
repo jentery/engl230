@@ -6,7 +6,7 @@ English 230, "Contemporary Media and Fiction"
 Fall 2020 at the University of Victoria   
 Zoom Class: Tuesdays, 10:30 - 11:20am (optional)   
 Zoom Office Hours: Tuesdays, 11:30am - 12:30pm; Wednesdays, 1:30-2:30pm (also optional)    
-Taught by Jentery Sayers 
+Taught by Jentery Sayers    
 With Faith Ryan (teaching assistant) 
 
 Textbook: *Contemporary Media and Fiction* (free online; URL coming soon)
