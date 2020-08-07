@@ -81,7 +81,7 @@ I'll include samples of assigned works in our weekly Zoom meetings. This way, we
 
 ## Will You Circulate a Technology Survey? 
 
-I will send you a brief survey at the beginning of the term. It should take you no more than ten minutes to complete. You can respond to it to tell Faith and me how you'll be accessing Zoom meetings and course materials, including any technologies you'll be using during the term. You can also respond to it to let Faith and me know other things you'd like me to consider as we proceed with "Contemporary Media and Fiction" (English 230). 
+I will send you a brief survey at the beginning of the term. It should take you no more than ten minutes to complete. You can respond to it to tell Faith and me how you'll be accessing Zoom meetings and course materials, including any technologies you'll be using during the term. You can also respond to it to let Faith and me know other things you'd like us to consider as we proceed with "Contemporary Media and Fiction" (English 230). 
 
 ## Where Can I Learn More about the Course? 
 
