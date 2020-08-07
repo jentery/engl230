@@ -5,17 +5,20 @@ This is a draft schedule for undergraduate students in my English 230 course, "C
 English 230, "Contemporary Media and Fiction"   
 Fall 2020 at the University of Victoria   
 Zoom Class: Tuesdays, 10:30 - 11:20am (optional)   
-Zoom Office Hours: Tuesdays, 11:30am - 12:30pm; Wednesdays, 1:30-2:30pm     
+Zoom Office Hours: Tuesdays, 11:30am - 12:30pm; Wednesdays, 1:30-2:30pm (also optional)    
 Taught by Jentery Sayers 
+With Faith Ryan (teaching assistant) 
 
-Textbook: *Contemporary Media and Fiction* (free online)
+Textbook: *Contemporary Media and Fiction* (free online; URL coming soon)
 
-Please purchase Alison Bechdel's *Fun Home* (available at the UVic Bookstore)    
+Please purchase Alison Bechdel's *Fun Home* (available at the [UVic Bookstore](https://www.uvicbookstore.ca/text/book/9780618871711?course_id=10001)) 
+
+We respectfully acknowledge that this course is being taught on the unceded territory of the Lkwungen peoples and the Songhees, Esquimalt and W̱SÁNEĆ First Nations, whose ongoing historical relationships with the land continue to this day.
 
 ## Week 1 (September 15th): Hello! 
 
 * Zoom Class: "How's This Going to Work?" + Discussion Forum (Introductions)
-* Study: The Course Brightspace 
+* Study: The Course Brightspace (will be ready in September) 
 * Assignment: Technology Survey  
 
 ## Week 2 (September 22nd): Why?  
@@ -61,7 +64,7 @@ October 12th is Thanksgiving Monday.
 ## Week 7 (October 27th): Images, Pt. I 
 
 * Zoom Class: "Looking Out" + Discussion Forum (Chapter 5)
-* Study: Chapter 5, "Images and Fiction"
+* Study: Chapter 5, "Images and Fiction," including Sam Barlow's [*Her Story*](http://www.herstorygame.com/)
 * Assignment: None
 
 Please note that Saturday, October 31st is the last day for withdrawing from first term courses without penalty of failure.
