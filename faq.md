@@ -2,7 +2,7 @@ This is an FAQ for undergraduate students in my English 230 course, "Contemporar
 
 ## What Will We Study? 
 
-We'll examine the role of media in contemporary fiction. This means we'll think a lot about audio, images, and text: how we read works of fiction but also play, watch, and listen to them. 
+We'll examine the role of media in contemporary fiction. This means we'll talk a lot about audio, images, and text: how we read works of fiction but also play, watch, and listen to them. 
 
 Here's a list of works we'll study in the course:
 
