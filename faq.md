@@ -1,4 +1,4 @@
-This is an FAQ for undergraduate students in my English 230 course, "Contemporary Media and Fiction" (Fall 2020), at the University of Victoria. I'll circulate the complete course outline in September. Thank you for your patience.  
+This is an FAQ for undergraduate students in my English 230 course, "Contemporary Media and Fiction" (Fall 2020), at the University of Victoria. I'll circulate the complete course outline in September, but you can check this draft [schedule](schedule.html) in the meantime. Thank you for your patience.  
 
 ## What Will We Study? 
 
