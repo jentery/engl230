@@ -27,7 +27,7 @@ In "Contemporary Media and Fiction" (English 230),  you'll learn to:
 
 * Interpret audio, images, and text in the context of contemporary fiction. We'll practice various techniques for listening, watching, reading, and playing media, and you'll develop a vocabulary for talking about media and fiction together.  
 * Communicate critically with audio, images, and text. You'll have opportunities to practice composing across these media. I will assume you have no previous experience with media production.  
-* Use media as forms of evidence in arguments and criticism. You'll learn to integrate audio, images, and even video alongside quotations. 
+* Use media as forms of evidence in arguments and criticism. You'll learn to integrate audio, images, and even video alongside quotations in your writing about fiction. 
 * Make a simple website, compose some content for it, and publish it using your UVic webspace. No worries if you've never made your own site. I'll provide you with examples and templates, which you can copy, paste, and edit. I will assume no experience in web design or content management. I will not ask you to purchase any software, and I'll provide you with instructions for passcode-protecting the websites you make. 
 
 All four of these outcomes should apply to work across disciplines and occupations, regardless of your major at UVic. They are all incredibly useful when you're interpreting media and writing for the web.
