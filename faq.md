@@ -59,6 +59,14 @@ Aside from weekly Zoom meetings, I will hold two optional office hours each week
 
 All other aspects of "Contemporary Media and Fiction" (English 230) will unfold asynchronously. I'll ask you to study (read, watch, listen, or play) a work of fiction every week or two. The course textbook, much like a lecture, will provide you with terminology and explain approaches to these works. It will also include prompts for your blog, for which you'll produce 10 entries during the term. Chapters in the textbook are available in text and audio formats, meaning you can read and/or listen to them.  
 
+## Is There a Draft Schedule Available? 
+
+There is, indeed! [Check it out](schedule.html). I've included due dates and links to materials. 
+
+## Will There Be a Course Brightspace? 
+
+There will be! I've just not finished it quite yet. We'll use Brightspace for scheduling, discussion forums, video recordings, and updates. The rest will happen on your blogs and in the class textbook. (I'll circulate the link to the textbook in September.)  
+
 ## How Will We Study Games? What If I Cannot or Do Not Want to Play Them?  
 
 I've selected four indie games for us to interpret and discuss. They are available across platforms, such as Itch, which is DRM-free. If you'd rather not purchase or play them, then you're welcome watch no-commentary gameplay videos of them. 
