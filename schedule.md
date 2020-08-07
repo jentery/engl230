@@ -24,7 +24,7 @@ We respectfully acknowledge that this course is being taught on the unceded terr
 ## Week 2 (September 22nd): Why?  
 
 * Zoom Class: "Big Mood" + Discussion Forum (Chapter 1)
-* Study: Textbook Chapter 1, "Why Media and Fiction," plus [*THE M00D 0F THE M0MENT*](https://www.yhchang.com/THE_MOOD_OF_THE_MOMENT_V.html) by Young-Hae Chang Heavy Industries + [*Secrets Agent*](https://even-kei.itch.io/secrets-agent) by Marina Kittaka 
+* Study: Chapter 1, "Why Media and Fiction?" plus [*THE M00D 0F THE M0MENT*](https://www.yhchang.com/THE_MOOD_OF_THE_MOMENT_V.html) by Young-Hae Chang Heavy Industries + [*Secrets Agent*](https://even-kei.itch.io/secrets-agent) by Marina Kittaka 
 * Assignment: Prompt 1A in the Textbook 
 
 Please note that Friday, September 25th is the last day for adding courses that begin in the first term.
@@ -38,7 +38,7 @@ Please note that Friday, September 25th is the last day for adding courses that 
 ## Week 4 (October 6th): Log Log Log 
 
 * Zoom Class: "It's Interactive?" + Discussion Forum (Chapter 3)
-* Study: Chapter 3, "Keeping a Blog," including Porpentine and Brenda Neotenomie's [*With Those We Love Alive*](http://collection.eliterature.org/3/work.html?work=with-those-we-love-alive)
+* Study: Chapter 3, "Making a Simple Site," including Porpentine and Brenda Neotenomie's [*With Those We Love Alive*](http://collection.eliterature.org/3/work.html?work=with-those-we-love-alive)
 * Assignment: Prompt 3A in the Textbook 
 
 Please publish your blogs by 9am on Friday, October 9th. We'll start marking them then. Thank you! 
