@@ -91,7 +91,7 @@ Here's a poster for the course:
 
 ![Poster](230.jpg)
 
-The image is in the poster is for Extremely Ok's *Celeste*. 
+The image in the poster is for Extremely Ok's *Celeste*. 
 
 ## Who Are You? 
 
