@@ -39,7 +39,7 @@ I'm asking you to do two things this term:
 * Create, design, and maintain a simple research blog with 10 entries, each responding to a prompt in the course textbook (the blog will be marked three times; the first two marks will each be 25% of your final grade; the final mark will be 30% of your final grade) 
 * Participate in online discussion forums with your peers (two marks, each 10% of your final grade)
 
-There are no essays or presentations required for this course. There is no exam, either. 
+There are no essays or presentations required for this course. There is no exam, either. I'll be grading your work with Faith Ryan, the course TA. 
 
 ## What Do I Need to Purchase? 
 
@@ -91,8 +91,8 @@ Here's a poster for the course:
 
 ![Poster](230.jpg)
 
-The image is from the poster for Extremely Ok's *Celeste*. 
+The image is in the poster is for Extremely Ok's *Celeste*. 
 
 ## Who Are You? 
 
-My name is Jentery Sayers. I'm an Associate Professor in the English department, where I also direct the [Praxis Studio](https://uvicpraxis.github.io/) for Comparative Media Studies. I've been at UVic since 2011, and I did my PhD at the University of Washington in Seattle. I teach and write about media, fiction, and culture in the 20th and 21st centuries. You can email me at [jentery@uvic.ca](mailto:jentery@uvic.ca). 
+My name is Jentery Sayers. I'm an Associate Professor in the English department, where I also direct the [Praxis Studio](https://uvicpraxis.github.io/) for Comparative Media Studies. I've been at UVic since 2011, and I did my PhD at the University of Washington in Seattle. I teach and write about media, fiction, and culture in the 20th and 21st centuries. You can contact me at [jentery@uvic.ca](mailto:jentery@uvic.ca). I'm happy to chat with you about any aspect of this course, and I'll be available by email in August and early September, prior to our first meeting on September 15th.  
