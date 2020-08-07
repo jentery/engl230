@@ -1,4 +1,4 @@
-This is a draft schedule for undergraduate students in my English 230 course, "Contemporary Media and Fiction" (Fall 2020), at the University of Victoria. I'll circulate the complete course outline in September. Thank you for your patience.
+This is a draft schedule for undergraduate students in my English 230 course, "Contemporary Media and Fiction" (Fall 2020), at the University of Victoria. I'll circulate the complete course outline in September. Thank you for your patience. There's also an [FAQ](https://jentery.github.io/engl230/faq.html), if you'd like. 
 
 ## Meta 
 
