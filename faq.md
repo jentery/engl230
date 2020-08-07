@@ -2,7 +2,7 @@ This is an FAQ for undergraduate students in my English 230 course, "Contemporar
 
 ## What Will We Study? 
 
-We'll examine the role of media in contemporary fiction. This means we'll talk a lot about audio, image, and text: how we read works of fiction but also play, watch, and listen to them. 
+We'll examine the role of media in contemporary fiction. This means we'll think a lot about audio, images, and text: how we read works of fiction but also play, watch, and listen to them. 
 
 Here's a list of works we'll study in the course:
 
@@ -14,16 +14,19 @@ Here's a list of works we'll study in the course:
 * The platforming game, [*Celeste*](http://www.celestegame.com/) (2018), by Extremely Ok
 * The first-person game, [*Gone Home*](https://gonehome.game/) (2013), by the Fulbright Company 
 * The adventure puzzle game, [*Secrets Agent*](https://even-kei.itch.io/secrets-agent) (2014), by Marina Kittaka 
+* The interactive crime fiction, [*Her Story*](http://www.herstorygame.com/about/) (2014), by Sam Barlow 
 * The dramatic podcast, [*Within the Wires*](http://www.nightvalepresents.com/withinthewires) (2016), by Jeffrey Cranor, Janina Matthewson, and Mary Epworth 
 
-I'm asking you to purchase only *one* of these works: Bechdel's *Fun Home*. I'm also providing you with a free textbook on contemporary media and fiction.
+If this ends up being too much for the term, then we'll cut material, or some of it will be optional. 
+
+I'm asking you to purchase only *one* of these works: Bechdel's *Fun Home*. I'm also providing you with a free, online textbook on contemporary media and fiction.
 
 ## What Will We Learn? 
 
 In "Contemporary Media and Fiction" (English 230),  you'll learn to: 
 
-* Interpret audio, image, and text in the context of contemporary fiction. We'll practice various techniques for listening, watching, reading, and playing media, and you'll develop a vocabulary for talking about media and fiction together.  
-* Communicate critically with audio, image, and text. You'll have opportunities to practice composing across these media. I will assume you have no previous experience with media production.  
+* Interpret audio, images, and text in the context of contemporary fiction. We'll practice various techniques for listening, watching, reading, and playing media, and you'll develop a vocabulary for talking about media and fiction together.  
+* Communicate critically with audio, images, and text. You'll have opportunities to practice composing across these media. I will assume you have no previous experience with media production.  
 * Use media as forms of evidence in arguments and criticism. You'll learn to integrate audio, images, and even video alongside quotations. 
 * Make a simple website, compose some content for it, and publish it using your UVic webspace. No worries if you've never made your own site. I'll provide you with examples and templates, which you can copy, paste, and edit. I will assume no experience in web design or content management. I will not ask you to purchase any software, and I'll provide you with instructions for passcode-protecting the websites you make. 
 
@@ -31,7 +34,7 @@ All four of these outcomes should apply to work across disciplines and occupatio
 
 ## What Are the Assignments? 
 
-I'm asking you to: 
+I'm asking you to do two things this term: 
 
 * Create, design, and maintain a simple research blog with 10 entries, each responding to a prompt in the course textbook (the blog will be marked three times; the first two marks will each be 25% of your final grade; the final mark will be 30% of your final grade) 
 * Participate in online discussion forums with your peers (two marks, each 10% of your final grade)
@@ -40,9 +43,9 @@ There are no essays or presentations required for this course. There is no exam,
 
 ## What Do I Need to Purchase? 
 
-The textbook for "Contemporary Media and Fiction" (English 230) is available online for free. I wrote it with teaching and learning at UVic in mind. It's intended primarily for UVic students. Each chapter is available in audio and text formats for listening and/or reading. 
+The textbook for "Contemporary Media and Fiction" (English 230) will be available online for free. I wrote it with teaching and learning at UVic in mind. It's intended primarily for UVic students. Each chapter is available in audio and text formats for listening and/or reading. 
 
-The only text I'm asking you to purchase is a copy of Bechdel's *Fun Home* (print or ebook), which will be available at the UVic Bookstore. A new copy of *Fun Home* should cost you no more than $26.00. 
+The only text I'm asking you to purchase is a copy of Bechdel's *Fun Home* (print or ebook), which is available at the [UVic Bookstore](https://www.uvicbookstore.ca/text/book/9780618871711?course_id=10001). It's $25 new and $18.75 used. 
 
 I'll provide you with a course packet, too, and point you to various materials published online. I will recommend some games and books that you can purchase, if you wish.
 
@@ -50,14 +53,15 @@ You do not need to purchase any software for this course; however, you'll need a
 
 ## When Will We Meet, and How Is the Course Structured? 
 
-We'll have one Zoom meeting each week: *Tuesdays, from 10:30 to 11:20am.* Weekly Zoom meetings will be dedicated to discussion, not lecture. I may occasionally treat them as opportunities to clarify materials in the textbook and to address your questions. You will be welcome to participate via chat, audio, or video. These Zoom meetings will be recorded in case you're unable to attend them.  
+We'll have *one* Zoom meeting each week: *Tuesdays, from 10:30 to 11:20am.* Weekly Zoom meetings will be dedicated to discussion, not lecture, and attendance will be optional. I may occasionally treat them as opportunities to clarify materials in the textbook and to address your questions. You will be welcome to participate via chat, audio, or video. My contributions to these Zoom meetings will be recorded in case you're unable to attend them.  
 
 Aside from weekly Zoom meetings, I will hold two optional office hours each week (days and times to be determined). They will be open to everyone in the course, and I will use Zoom for those as well.  
 
-All other aspects of "Contemporary Media and Fiction" (English 230) will unfold asynchronously. I'll ask you to study (read, watch, listen, or play) a work every week or two. The course textbook, much like a lecture, will provide you with terminology and explain approaches to these works. It will also include prompts for your blog, for which you'll produce 10-12 entries during the term. Chapters in the textbook are available in text and audio formats, meaning you can read and/or listen to them.  
+All other aspects of "Contemporary Media and Fiction" (English 230) will unfold asynchronously. I'll ask you to study (read, watch, listen, or play) a work of fiction every week or two. The course textbook, much like a lecture, will provide you with terminology and explain approaches to these works. It will also include prompts for your blog, for which you'll produce 10 entries during the term. Chapters in the textbook are available in text and audio formats, meaning you can read and/or listen to them.  
 
 ## How Will We Study Games? What If I Cannot or Do Not Want to Play Them?  
-I've selected three indie games for us to interpret and discuss. They are available across platforms, including Itch, which is DRM-free. If you'd rather not purchase or play them, then you're welcome watch no-commentary gameplay videos of them. 
+
+I've selected four indie games for us to interpret and discuss. They are available across platforms, such as Itch, which is DRM-free. If you'd rather not purchase or play them, then you're welcome watch no-commentary gameplay videos of them. 
 
 You'll access other formats (including podcasts, animations, and experimental fiction) online, and you can read *Fun Home* in print or on an e-reader.
 
