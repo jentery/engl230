@@ -73,7 +73,7 @@ The course is full, with a cap of 60, plus Faith Ryan (teaching assistant) and m
 
 ## How Will We Study Games? What If I Cannot or Do Not Want to Play Them?  
 
-I've selected four indie games for us to interpret and discuss. They are available across platforms, such as Itch, which is DRM-free. If you'd rather not purchase or play them, then you're welcome watch no-commentary gameplay videos of them. 
+I've selected five indie games for us to interpret and discuss. They are available across platforms, such as Itch, which is DRM-free. If you'd rather not purchase or play them, then you're welcome watch no-commentary gameplay videos of them. 
 
 You'll access other formats (including podcasts, animations, and experimental fiction) online, and you can read *Fun Home* in print or on an e-reader.
 
