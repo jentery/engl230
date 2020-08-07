@@ -65,7 +65,7 @@ There is, indeed! [Check it out](schedule.html). I've included due dates and lin
 
 ## Will There Be a Course Brightspace? 
 
-There will be! I've just not finished it quite yet. We'll use Brightspace for scheduling, discussion forums, video recordings, and updates. The rest will happen on your blogs and in the class textbook. (I'll circulate the link to the textbook in September.) 
+There will be! I've just not finished it quite yet. We'll use Brightspace for scheduling, discussion forums, video recordings, and updates. The rest will happen on your blogs, through Zoom, and in the class textbook. (I'll circulate the link to the textbook in September.) 
 
 ## How Many of Us Will There Be? 
 
