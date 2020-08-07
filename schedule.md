@@ -11,7 +11,7 @@ With Faith Ryan (teaching assistant)
 
 Textbook: *Contemporary Media and Fiction* (free online; URL coming soon)
 
-Please purchase Alison Bechdel's *Fun Home* (available at the [UVic Bookstore](https://www.uvicbookstore.ca/text/book/9780618871711?course_id=10001)) 
+Please purchase Alison Bechdel's *Fun Home* (available at the [UVic Bookstore](https://www.uvicbookstore.ca/text/book/9780618871711?course_id=10001)). 
 
 We respectfully acknowledge that this course is being taught on the unceded territory of the Lkwungen peoples and the Songhees, Esquimalt and W̱SÁNEĆ First Nations, whose ongoing historical relationships with the land continue to this day.
 
