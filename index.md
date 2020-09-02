@@ -1,8 +1,7 @@
 # Contemporary Media and Fiction 
 
-An online undergraduate course   
-English 230   
-Fall 2020 at the University of Victoria   
+An online undergraduate course for 60 students  
+English 230 | Fall 2020 at the University of Victoria   
 Zoom Class: Tuesdays, 10:30 - 11:20am (optional)   
 Zoom Office Hours: Tuesdays, 11:30am - 12:30pm; Wednesdays, 1:30-2:30pm (also optional)   
 Taught by Jentery Sayers (he / him / his; jentery@uvic.ca)    
@@ -67,13 +66,13 @@ I'll post the prerecorded remarks as well as a recording of the Zoom session to 
 
 Faith and I will also offer *two optional office hours* in Zoom each week: *Tuesdays, 11:30am - 12:30pm; Wednesdays, 1:30-2:30pm*. The URL for office hours will be the same as the URL for weekly meetings, and office hours will be open to everyone who would like to join. We may, from time to time, have a theme for office hours, mostly to engage particular questions you might have as a group at a specific moment during the course. 
 
-The balance of the course, including the discussion forums and the blog, will happen in the course Brightspace, which you should be able to access via your UVic account. If you cannot access the seminar Brightspace, then please let me know. You'll use Brightspace to submit your assignments, and we will all use it to engage in weekly conversations. I'll also use it to return marks, post announcements, and point to you resources here and there.  
+The balance of the course, including the discussion forums and the blog, will happen in the course Brightspace, which you should be able to access via your UVic account. If you cannot access the Brightspace, then please let me know. You'll use Brightspace to submit your assignments, and we will all use it to engage in weekly conversations. I'll also use it to return marks, post announcements, and point to you resources here and there.  
 
 # Workload
 
 The most important thing to know about this course is that **I'll opt for care in every instance.** If the workload becomes too much, or we're juggling more than we should, then we'll cut materials, including assignments, as we go. I've planned for the maximum in advance, under the assumption that we won't get to everything. And that's totally fine.  
 
-I suggest dedicating 3 to 5 hours of study each week to this seminar, plus 1.5 hours for the weekly Zoom meetings if you're able to attend them. To frame expectations and decrease overwork, I assign in the schedule (below) a number of recommended hours to each aspect of the course, and I communicate progress in terms of weekly steps (0-13) toward completing the course, partially because online learning makes time weird for us all, and focusing on one thing can be a struggle right now, to say the least. 
+I suggest dedicating 3 to 5 hours of study each week to this course, plus 1.5 hours for the weekly Zoom meetings if you're able to attend them. To frame expectations and decrease overwork, I assign in the schedule (below) a number of recommended hours to each aspect of the course, and I communicate progress in terms of weekly steps (0-13) toward completing the course, partially because online learning makes time weird for us all, and focusing on one thing can be a struggle right now, to say the least. 
 
 Of course, 3 to 5 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your own familiarity with the work and materials involved. 
 
