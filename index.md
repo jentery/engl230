@@ -7,6 +7,8 @@ Zoom Office Hours: Tuesdays, 11:30am - 12:30pm; Wednesdays, 1:30-2:30pm (also op
 Taught by Jentery Sayers (he / him / his; jentery@uvic.ca)    
 With Faith Ryan (she / her / hers), teaching assistant
 
+*This syllabus is licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).*
+
 Contents: 
 
 * [Description](#description)              
@@ -305,3 +307,5 @@ The [Student Services website](https://www.uvic.ca/studentaffairs/departments/st
 # Territory Acknowledgement 
 
 As researchers and instructors who have the privilege to live and work as guests on these lands, we acknowledge with respect that the University of Victoria is located on the unceded territory of the Lkwungen peoples and the Songhees, Esquimalt, and <u>W̱</u>SÁNEĆ First Nations, whose historical relationships with the land continue to this day.
+
+*This syllabus is licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).*
