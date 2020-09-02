@@ -278,6 +278,10 @@ The University of Victoria is committed to promoting, providing, and protecting 
 
 You and I are expected to adhere to [UVic's academic integrity policy](https://www.uvic.ca/current-students/home/academics/academic-integrity/index.php) and be aware of the policies for the evaluation of student course work. Violations of the integrity policy will result in a failing grade for the given assignment and may additionally result in a failing grade for the course. By taking this course, you agree that all submitted assignments may be subject to an originality review. I do not use software to detect plagiarism in essays or any other assignments.
 
+### Copyright 
+
+All course materials are made available by me for educational purposes and for the exclusive use of students in this course. The material is protected under copyright law, even if not marked as such. The syllabus itself is licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Any further use or distribution of materials to others requires my written permission, except under fair dealing or another exception in the Copyright Act. Violations may result in discplinary action under the Resolution of Non-Academic Misconduct Allegations policy (AC1300). 
+
 ### Accessibility and Accommodation 
 
 Students with diverse learning styles and needs are welcome in this course. In particular, if you have a disability or health consideration that may require accommodations, please feel free to approach me and/or the [Centre for Accessible Learning (CAL)](https://www.uvic.ca/services/cal/) as soon as possible. CAL staff are available by appointment to assess specific needs, provide referrals, and arrange appropriate accommodations. The sooner you let us know your needs, the quicker we can assist you in achieving your learning goals in this course.
